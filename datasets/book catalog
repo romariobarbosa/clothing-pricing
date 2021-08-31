@@ -1,0 +1,58 @@
+,Name,Price,Availability,Star Rating,Scrapy Datetime,Catalog
+0,The Secret Garden,15.08,        In stock,Four,2021-07-07- 15:21:00,Classics
+1,The Metamorphosis,28.58,        In stock,One,2021-07-07- 15:21:00,Classics
+2,The Pilgrim's Progress,50.26,        In stock,Two,2021-07-07- 15:21:00,Classics
+3,The Hound of the ...,14.82,        In stock,Two,2021-07-07- 15:21:00,Classics
+4,Little Women (Little Women ...,28.07,        In stock,Four,2021-07-07- 15:21:00,Classics
+5,Gone with the Wind,32.49,        In stock,Three,2021-07-07- 15:21:00,Classics
+6,Candide,58.63,        In stock,Three,2021-07-07- 15:21:00,Classics
+7,Animal Farm,57.22,        In stock,Three,2021-07-07- 15:21:00,Classics
+8,Wuthering Heights,17.73,        In stock,Three,2021-07-07- 15:21:00,Classics
+9,The Picture of Dorian ...,29.70,        In stock,Two,2021-07-07- 15:21:00,Classics
+10,The Complete Stories and ...,26.78,        In stock,Four,2021-07-07- 15:21:00,Classics
+11,Beowulf,38.35,        In stock,Two,2021-07-07- 15:21:00,Classics
+12,And Then There Were ...,35.01,        In stock,Two,2021-07-07- 15:21:00,Classics
+13,The Story of Hong ...,43.19,        In stock,Four,2021-07-07- 15:21:00,Classics
+14,The Little Prince,45.42,        In stock,Two,2021-07-07- 15:21:00,Classics
+15,Sense and Sensibility,37.46,        In stock,One,2021-07-07- 15:21:00,Classics
+16,Of Mice and Men,47.11,        In stock,Two,2021-07-07- 15:21:00,Classics
+17,Emma,32.93,        In stock,Two,2021-07-07- 15:21:00,Classics
+18,Alice in Wonderland (Alice's ...,55.53,        In stock,One,2021-07-07- 15:21:00,Classics
+0,Mesaerion: The Best Science ...,37.59,        In stock,One,2021-07-07- 15:24:50,Science Fiction
+1,Join,35.67,        In stock,Five,2021-07-07- 15:24:50,Science Fiction
+2,William Shakespeare's Star Wars: ...,43.30,        In stock,Four,2021-07-07- 15:24:50,Science Fiction
+3,The Project,10.65,        In stock,One,2021-07-07- 15:24:50,Science Fiction
+4,Soft Apocalypse,26.12,        In stock,Two,2021-07-07- 15:24:50,Science Fiction
+5,Sleeping Giants (Themis Files ...,48.74,        In stock,One,2021-07-07- 15:24:50,Science Fiction
+6,Arena,21.36,        In stock,Four,2021-07-07- 15:24:50,Science Fiction
+7,Foundation (Foundation (Publication Order) ...,32.42,        In stock,One,2021-07-07- 15:24:50,Science Fiction
+8,The Restaurant at the ...,10.92,        In stock,One,2021-07-07- 15:24:50,Science Fiction
+9,Ready Player One,19.07,        In stock,Four,2021-07-07- 15:24:50,Science Fiction
+10,"Life, the Universe and ...",33.26,        In stock,Two,2021-07-07- 15:24:50,Science Fiction
+11,Dune (Dune #1),54.86,        In stock,One,2021-07-07- 15:24:50,Science Fiction
+12,Do Androids Dream of ...,51.48,        In stock,One,2021-07-07- 15:24:50,Science Fiction
+13,Three Wishes (River of ...,44.18,        In stock,Two,2021-07-07- 15:24:50,Science Fiction
+14,The Last Girl (The ...,36.26,        In stock,Two,2021-07-07- 15:24:50,Science Fiction
+15,Having the Barbarian's Baby ...,34.96,        In stock,Four,2021-07-07- 15:24:50,Science Fiction
+0,The Long Haul (Diary ...,44.07,        In stock,One,2021-07-07- 15:24:55,Humor
+1,Old School (Diary of ...,11.83,        In stock,Five,2021-07-07- 15:24:55,Humor
+2,I Know What I'm ...,25.98,        In stock,Four,2021-07-07- 15:24:55,Humor
+3,Hyperbole and a Half: ...,14.75,        In stock,Five,2021-07-07- 15:24:55,Humor
+4,Dress Your Family in ...,43.68,        In stock,Three,2021-07-07- 15:24:55,Humor
+5,Toddlers Are A**holes: It's ...,25.55,        In stock,One,2021-07-07- 15:24:55,Humor
+6,When You Are Engulfed ...,30.89,        In stock,Five,2021-07-07- 15:24:55,Humor
+7,Naked,31.69,        In stock,Three,2021-07-07- 15:24:55,Humor
+8,Lamb: The Gospel According ...,55.50,        In stock,Five,2021-07-07- 15:24:55,Humor
+9,Holidays on Ice,51.07,        In stock,Two,2021-07-07- 15:24:55,Humor
+0,The Dirty Little Secrets ...,33.34,        In stock,Four,2021-07-07- 15:25:03,Business
+1,The Third Wave: An ...,12.61,        In stock,Five,2021-07-07- 15:25:03,Business
+2,The 10% Entrepreneur: Live ...,27.55,        In stock,Three,2021-07-07- 15:25:03,Business
+3,Shoe Dog: A Memoir ...,23.99,        In stock,Two,2021-07-07- 15:25:03,Business
+4,Made to Stick: Why ...,38.85,        In stock,Five,2021-07-07- 15:25:03,Business
+5,Quench Your Own Thirst: ...,43.14,        In stock,One,2021-07-07- 15:25:03,Business
+6,The Art of Startup ...,21.00,        In stock,Three,2021-07-07- 15:25:03,Business
+7,Born for This: How ...,21.59,        In stock,Five,2021-07-07- 15:25:03,Business
+8,The E-Myth Revisited: Why ...,36.91,        In stock,One,2021-07-07- 15:25:03,Business
+9,"Rich Dad, Poor Dad",51.74,        In stock,One,2021-07-07- 15:25:03,Business
+10,The Lean Startup: How ...,33.92,        In stock,Three,2021-07-07- 15:25:03,Business
+11,Rework,44.88,        In stock,Two,2021-07-07- 15:25:03,Business
